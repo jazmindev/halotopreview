@@ -39,7 +39,7 @@ body {
 }
 .photosize {
     width: 25%;
-
+object-fit: contain;
     
 
 }
