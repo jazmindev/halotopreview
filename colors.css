@@ -1,0 +1,48 @@
+.caramel {
+    color: rgb(199, 147, 15);
+}
+.pbcup {
+    color: rgb(104, 64, 12);
+}
+.strawberry {
+    color: rgb(190, 98, 113);
+}
+.blueberry {
+    color: rgb(80, 80, 238);
+}
+.pbj {
+    color: purple;
+}
+.mint {
+    color:rgb(56, 182, 144);
+}
+.peach {
+    color:orange;
+}
+.oatmeal {
+    color:rgb(226, 185, 109);
+}
+.cake {
+    color:rgba(221, 218, 16, 0.788);
+}
+.vanilla {
+    color:rgb(163, 145, 95);
+}
+.candy {
+    color:rgb(48, 2, 2);
+}
+.center {
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.photosize {
+    width: 250px;
+    
+
+}
+.centerbox {
+    display: flex;
+    justify-content: center;
+}
